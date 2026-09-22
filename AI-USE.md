@@ -27,4 +27,4 @@ I modified some suggested responses pertaining to Web Scraper because the initia
 
 ## Error or Weak Assumption Identified
 
-Some of the errors or weak assumptions came from ChatGPT not distinguishing the records coming from Chat itself or from the Yelp page I actually needed to scrape. It was difficult in general working with AI on this section since I was fairly new to use Web Scraper as well.
+Some of the errors or weak assumptions came from ChatGPT not distinguishing the records coming from Chat itself or from the Yelp page I actually needed to scrape. It was difficult, in general, working with AI on this Q3 since I was fairly new to using Web Scraper.
