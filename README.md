@@ -1,6 +1,6 @@
 # HW1_Web_Measurements
 
-Target Business Page for Q3:
+Target Business Page for Q2 and Q3:
 https://www.yelp.com/biz/sushi-and-k-grill-fenton
 
 ## Tool Versions
